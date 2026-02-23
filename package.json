@@ -1,0 +1,25 @@
+{
+  "name": "srishtigreenwebapp",
+  "version": "1.0.0",
+  "description": "Leading Solar Energy Company in India – Govt Registered Renewable Energy Experts Harness the power of the sun with cutting-edge solar solutions. Reduce your carbon footprint while saving significantly on electricity bills with India's trusted solar partner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srishtienergylead-developer/srishtiGreenWebApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/srishtienergylead-developer/srishtiGreenWebApp/issues"
+  },
+  "homepage": "https://github.com/srishtienergylead-developer/srishtiGreenWebApp#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "tailwindcss": "^3.4.4"
+  }
+}
